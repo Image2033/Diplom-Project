@@ -9,7 +9,7 @@ Supervisor: Burul Shambetova<br>
 Head of department: Dr.Ruslan Isaev<br>
 # Screenshots<br>
 1.Main page Image<br><br>
-![image](https://user-images.githubusercontent.com/55078504/173553732-da350a9f-499e-46f6-bea7-9a0f55febab4.png)<br><br>
+![image](https://user-images.githubusercontent.com/55078504/173654632-d9b6690e-325d-49ce-8eda-3a8f78b02680.png)<br><br>
 2.Bestsellers and subscribe form<br><br>
  ![image](https://user-images.githubusercontent.com/55078504/173553965-26ed6212-87d4-4fbf-bb71-1f0d73b3d34a.png)<br><br>
 3.Library <br><br>
