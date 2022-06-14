@@ -3,8 +3,8 @@ This final qualifying work is a website for ordering and delivering textbooks to
 # Student information<br>
 Name/Surname: Erlan Alymkulov<br>
 Group: COM-18<br>
-Faculty: ENGINEERING AND INFORMATICS
-Department: COMPUTER SCIENCE
-Supervisor: Burul Shambetova
-Head of department: Dr.Ruslan Isaev
-#Screenshots
+Faculty: ENGINEERING AND INFORMATICS<br>
+Department: COMPUTER SCIENCE<br>
+Supervisor: Burul Shambetova<br>
+Head of department: Dr.Ruslan Isaev<br>
+# Screenshots
